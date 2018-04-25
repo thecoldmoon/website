@@ -1,0 +1,77 @@
+.fancybox-infobar{
+    visibility: hidden !important;
+}
+.body{
+    width:900px;
+}
+.sketchbooks{
+    position: absolute;
+    z-index: 100;
+    display: block;
+    margin-left: 200px;
+    margin-right: 600px;
+}
+.sketchbook{
+    margin:20px;
+}
+
+.sketchbook img{
+    margin-bottom:40px;
+    width:200px;
+    overflow: hidden;
+}
+.work{
+    z-index: 9;
+    left: 765px;
+    top: 730px;
+    position: absolute;
+    width: 380px;
+    height: 2000px;
+    background-color: black;
+    overflow-wrap: break-word;
+}
+
+.skbtxt{
+    color: white !important;
+    z-index: 99;
+    position: absolute;
+    top:-730px;
+    left:-80px;
+}
+
+.sketch img{
+    margin-bottom:40px;
+    width: 250px;
+}
+.sketches{
+    position: static;
+    top: 70px;
+    z-index: 100;
+    display: block;
+    margin-left: 50px;
+    margin-right: 600px;
+    margin-top:197px;
+}
+
+#u9626{
+    width:600px !important;
+    height:500px !important;
+}
+
+    
+.slides
+    {
+        margin:none !important;
+    }
+
+    .introdiv{
+        z-index: 999;
+        width: 380px;
+        position: absolute;
+        top: 550px;
+        left: 900px;
+    }
+
+.intro{
+    font: 15px/150% open-sans;
+}
