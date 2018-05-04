@@ -44,6 +44,11 @@
     top:60px;
     margin-bottom:50px;
 }
+.content{
+    position: relative;
+    top: 100px;
+    left: 140px;
+}
 
 .intro{
     width:600px;
@@ -91,7 +96,7 @@
 
 .description-bus-me{
     top: -610px;
-    left: 710px !important;
+    left: 600px !important;
 }
 .underline{
     background-color: black;
