@@ -256,3 +256,17 @@ img.mySlides2{
     from {opacity: .4}
     to {opacity: 1}
   }
+
+  /* Media Query*/
+
+@media only screen and (max-width: 1331px) {
+  .photography{
+    top: 100px;
+  }
+}
+
+@media only screen and (max-width: 1087px) {
+    .photography{
+        top: 500px;
+      }
+  }
