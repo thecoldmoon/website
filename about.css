@@ -4,7 +4,7 @@
     width:700px;
 }
 #u10245-4{z-index:276;width:478px;min-height:350px;background-color:transparent;line-height:257px;font-size:214px;font-family:acta-poster, sans-serif;font-weight:400;font-style:italic;position:relative;margin-right:-10000px;margin-top:312px;left:552px;}
-#u10245{font-size:200px; 
+#u10245{font-size:200px;
     word-wrap: normal;
     text-shadow: 2px 2px 4px #FFFFFf;
 }
@@ -67,7 +67,10 @@
     color:black;
     font-size:40px;
 }
-
+.box{
+    align-items: flex-start;
+    justify-content: flex-start;
+}
 .about{
     height: 700px;
     background-color: rgb(255, 208, 196);
@@ -79,7 +82,7 @@
     position:relative;
     top: -300px;
     left:-300px;
-    font-size:100px; 
+    font-size:100px;
     word-wrap: normal;
     color: black;
     text-shadow: 3px 3px 5px rgb(255, 255, 255);
